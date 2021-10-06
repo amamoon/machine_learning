@@ -1,3 +1,3 @@
 # machine_learning
 
-Material From COMP9417, Kaggle and Personal Projects
+Mathematical models of ML in python format as well as code from Kaggle
